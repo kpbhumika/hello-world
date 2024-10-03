@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hey there! I’m Bhumika KP – a software developer with a Bachelor’s in Information Science Engineering and over 3 years of experience as a Software Engineer. I also completed a web development bootcamp to sharpen my skills. Right now, I'm leveling up with a Master’s in Software Development at Boston University, set to graduate in August 2025. When I’m not buried in code, you’ll probably find me singing my heart out. Building user-friendly, impactful apps is my jam! Wanna take a look at one of my projects? Check out my web app: [Market Mingle](https://market-mingle-c1e74b26ea17.herokuapp.com/)
